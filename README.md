@@ -2,4 +2,4 @@
 
 ## Screenshots :
 
-![adidas_sales](./screenshots/adidas_sales.PNG)
+![adidas_sales](./screenshots/adidas_sales.jpg)
